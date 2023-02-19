@@ -1,3 +1,5 @@
+@import-normalize;
+
 .transactionHistory {
   width: 400px;
   margin: auto;
